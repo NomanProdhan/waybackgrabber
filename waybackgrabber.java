@@ -1,5 +1,5 @@
 /*
-        Program : WaybackLinks
+        Program : WaybackGrabber
         Author : Noman Prodhan
         Github : https://github.com/NomanProdhan
         Twitter : https://twitter.com/NomanProdhan
