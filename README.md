@@ -44,7 +44,7 @@ After a successful scan, it will save all links, subdomains and links that have 
 - YouTube @[nomanprodhan](https://www.youtube.com/c/NOMANPRODHAN)
 - Websites [www.nomantheking.com](https://nomantheking.com) [www.nomanprodhan.com](https://nomanprodhan.com)
 ---
-This tool was inspired by @[mhmdiaa](https://gist.github.com/mhmdiaa)'s [waybackurls](https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050)
+This tool is inspired by @[mhmdiaa](https://gist.github.com/mhmdiaa)'s [waybackurls](https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050)
 
 ---
 If you are a Cyber Security enthusiast and want to improve your skill, you can join our Hack Zone at [www.hack.knightsquad.org](https://hack.knightsquad.org/) or [www.kshackzone.com](https://kshackzone.com/)
